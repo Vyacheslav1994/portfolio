@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Neusa Next Pro';
+    src: local('Neusa Next Pro Compact Medium'), local('Neusa-Next-Pro-Compact-Medium'),
+        url('NeusaNextPro-CompactMedium.woff2') format('woff2'),
+        url('NeusaNextPro-CompactMedium.woff') format('woff'),
+        url('NeusaNextPro-CompactMedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+  }
