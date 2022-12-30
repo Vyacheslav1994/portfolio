@@ -186,9 +186,9 @@ h2 {
   display: none;
 }
 
-section {
+/* section {
   overflow-x: hidden;
-}
+} */
 
 .container {
   width: calc(100% - 64px);
